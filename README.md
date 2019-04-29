@@ -1,3 +1,5 @@
+Just putting out the idea, probably I'm not going to implement :).
+
 # curl-checksum
 
 curl-checksum is a hypothetical command line utility that combines curl +
