@@ -1,8 +1,9 @@
 # curl-checksum
 
 curl-checksum is a hypothetical command line utility that combines curl +
-checksum. There was a discussion about this in [the Curl repository]
-(https://github.com/curl/curl/issues/1399) but didn't get enough attention.
+checksum. There was a discussion about this in
+[the Curl repository](https://github.com/curl/curl/issues/1399) but
+didn't get enough attention.
 
 ```bash
 # If the checksum doesn't match, it fails.
