@@ -9,7 +9,7 @@ didn't get enough attention.
 # If the checksum doesn't match, it fails.
 ./curl-checksum.sh example.org --sha256 3587cb776ce0e4e8237f215800b7dffba0f25865cb84550e87ea8bbac838c423
 
-# Without a checksum argument, it prints out the checksum
+# Without a checksum argument, it prints out the checksums
 ./curl-checksum.sh example.org
 # --sha256 3587cb776ce0e4e8237f215800b7dffba0f25865cb84550e87ea8bbac838c423
 # --sha512 ddf40ddbc3887566ad782ea04cc6a4cbd5bc5db159fe9baa91b773cd7cc0c30498efdfb9fe7524ec1c2ded1e8513544c5a6703e0785d0bfd6aeca4be603701ff
